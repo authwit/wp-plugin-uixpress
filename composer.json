@@ -1,0 +1,7 @@
+{
+  "name": "authwit/uixpress",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^2"
+  }
+}
